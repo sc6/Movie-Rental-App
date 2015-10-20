@@ -1,6 +1,6 @@
 <h3>Data Structures: Movie Rental App</h3>
 
-<strong>Steve Chang (Fall '14)
+<strong>Steve Chang (Fall '14)</strong>
 
 About a month and one week was spent creating this app. It tries to emulate a popular movie streaming and rental platform. The backend was originally created without the use of STL classes, but was later replaced for more credit. The frontend was made using the Qt framework.
 
