@@ -2,9 +2,9 @@
 
 <strong>Steve Chang (Fall '14)</strong>
 
-About a month and one week was spent creating this app. It tries to emulate a popular movie streaming and rental platform. The backend was originally created without the use of STL classes, but was later replaced for more credit. The frontend was made using the Qt framework.
+About a month and one week was spent creating this app from start to finish. It tries to emulate a popular movie streaming and rental platform. The backend was originally created without the use of STL classes, but was later replaced for more credit. The frontend was made using the Qt framework.
 
-Nothing was changed from the final submission version of the project. As you can see, there's still a lot of things that could be fixed... Maybe I'll revisit this project some time in the future.
+Nothing was changed from the final submission version of the project. As you can see, there's still a lot of things that could be fixed. The quick pace of this project may have deemphasized some important things... Maybe I'll revisit this project some time in the future.
 
 
 <hr />
