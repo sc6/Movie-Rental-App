@@ -1,0 +1,16 @@
+BEGIN The Princess Bride
+ACTOR: Inigo Montoya
+ACTOR: Robin Wright
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+KEYWORD: Robin Wright
+PRICE: 3
+END
+BEGIN City Lights
+ACTOR: Charlie Chaplin
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+PRICE: 1
+END
