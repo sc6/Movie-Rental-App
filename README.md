@@ -1,8 +1,10 @@
-# CS 104 Project Repository
+<h3>Data Structures: Movie Rental App</h3>
 
-- **Name**: Steve Chang
-- **USC ID**: 2475262661
-- **Email**: chan257@usc.edu
+<strong>Steve Chang (Fall '14)
+
+About a month and one week was spent creating this app. It tries to emulate a popular movie streaming and rental platform. The backend was originally created without the use of STL classes, but was later replaced for more credit. The frontend was made using the Qt framework.
+
+Nothing was changed from the final submission version of the project. As you can see, there's still a lot of things that could be fixed... Maybe I'll revisit this project some time in the future.
 
 
 <hr />
