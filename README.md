@@ -1,5 +1,5 @@
 <h3>Movie Rental App</h3>
-<strong>Steve Chang (Fall '14)</strong>
+<strong>October 2014 to November 2014</strong>
 <br><br>
 <strong>About:</strong><br>
 This application simulates the backend of a popular movie streaming and rental platform using data structures such as Map and Set. It include features such as search by title, actor, or subject; a movie check-out and check-in system; a movie rating system; a user login and registration system; persistant data tracking; and move recommendations based on user's previous movie ratings. The frontend was developed using the Qt library. The backend originally utilized my own data structures, but was later replaced with STL classes for extra credit.
