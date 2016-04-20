@@ -2,7 +2,7 @@
 <strong>October 2014 to November 2014</strong>
 <br><br>
 <strong>About:</strong><br>
-This application simulates the backend of a popular movie streaming and rental platform using data structures such as Map and Set. It include features such as search by title, actor, or subject; a movie check-out and check-in system; a movie rating system; a user login and registration system; persistant data tracking; and a movie recommendation system based on user's previous movie ratings. The frontend was developed using the Qt library. The backend originally utilized my own data structures, but was later replaced with STL classes for extra credit.
+This application simulates the back-end of a popular movie streaming and rental platform using data structures such as Map and Queue. It include features such as search by title, actor, or subject; a movie check-out and check-in system; a movie rating system; a user login and registration system; persistant data tracking; and a movie recommendation system based on user's previous movie ratings. The basic front-end controls are based on the Qt library. The back-end originally utilized my own data structures, but was later replaced with STL classes for extra credit.
 <br><br>
 <strong>Quick Start Guide:</strong><br>
 1. Enter qt-workspace directory by typing <code>cd qt-workspace</code>.<br>
